@@ -8,7 +8,6 @@ management:
         include:
         - '*'
 greeting-service:
-  greeting: Gallo
-  default-value: Word
-  
-        
+  greeting: Ola
+  default-value: Mundo
+         
